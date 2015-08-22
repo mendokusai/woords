@@ -1,0 +1,17 @@
+{
+  "name": "woords",
+  "version": "1.0.0",
+  "description": "a website. for things.",
+  "main": "woords.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "funzo"
+  ],
+  "author": "ryan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
